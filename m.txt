@@ -1,0 +1,2 @@
+Main-Class: dentry.home 
+Class-Path: ojdbc14.jar 
